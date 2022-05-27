@@ -1,4 +1,4 @@
-### https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg
+https://raw.githubusercontent.com/username/github-stats/master/generated/overview.svg
 
 <!--
 **adabugra/adabugra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
