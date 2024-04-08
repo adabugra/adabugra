@@ -9,6 +9,11 @@
 ![Adabugra's GitHub stats](https://github-readme-stats-mu-dun-89.vercel.app/api?username=adabugra&theme=ambient_gradient&show_icons=true)
 [![Top Langs](https://github-readme-stats-mu-dun-89.vercel.app/api/top-langs/?username=adabugra&compact&langs_count=3&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 -->
+<div align="left">
+  <img src="https://i.ibb.co/Wp3H6F2/image-removebg-preview-Copy.png" height="30" alt="javascript logo"  />
+  <img width="12" />
+</div>
+
 
 <div align="left">
   <a href="https://discord.com/invite/6QRx2Y6rM9" target="_blank">
