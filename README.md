@@ -10,6 +10,18 @@
 [![Top Langs](https://github-readme-stats-mu-dun-89.vercel.app/api/top-langs/?username=adabugra&compact&langs_count=3&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 -->
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
+
+<div align="left">
+  <a href="https://discord.com/invite/6QRx2Y6rM9" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord logo"  />
+  </a>
+</div>
+
+
+
+
+
+
 <!--
 **adabugra/adabugra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
