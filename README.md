@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is adabugra, I from Turkey</h2>
+<h1 align="center">Hi 👋! My name is adabugra, I from Turkey</h2>
 
 ###
 
