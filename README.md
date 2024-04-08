@@ -9,7 +9,6 @@
 ![Adabugra's GitHub stats](https://github-readme-stats-mu-dun-89.vercel.app/api?username=adabugra&theme=ambient_gradient&show_icons=true)
 [![Top Langs](https://github-readme-stats-mu-dun-89.vercel.app/api/top-langs/?username=adabugra&compact&langs_count=3&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 -->
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
 
 <div align="left">
   <a href="https://discord.com/invite/6QRx2Y6rM9" target="_blank">
