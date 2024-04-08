@@ -3,7 +3,7 @@
 -->
 <div align="center">
   <img src="https://github-readme-stats-mu-dun-89.vercel.app/api?username=adabugra&theme=ambient_gradient&show_icons=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-mu-dun-89.vercel.app/api/top-langs/?username=adabugra&compact&langs_count=3&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats"  />
+  <img src="https://github-readme-stats-mu-dun-89.vercel.app/api/top-langs/?username=adabugra&compact&langs_count=3&theme=ambient_gradient"  />
 </div>
 <!--
 ![Adabugra's GitHub stats](https://github-readme-stats-mu-dun-89.vercel.app/api?username=adabugra&theme=ambient_gradient&show_icons=true)
