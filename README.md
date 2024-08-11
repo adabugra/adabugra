@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋! My name is adabugra, I am from Turkey</h2>
-<h2 align="left">Hi 👋! My name is Jake</h2>
 
 ###
 
