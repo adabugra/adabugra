@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋! My name is adabugra, I am from Turkey</h2>
+<h2 align="left">Hi 👋! My name is Jake</h2>
 
 ###
 
@@ -6,8 +7,8 @@
 ![](https://raw.githubusercontent.com/adabugra/stats/master/generated/languages.svg#gh-dark-mode-only)
 -->
 <div align="center">
-  <img src="https://github-readme-stats-mu-dun-89.vercel.app/api?username=adabugra&theme=ambient_gradient&show_icons=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats-mu-dun-89.vercel.app/api/top-langs/?username=adabugra&compact&langs_count=3&theme=ambient_gradient"  />
+  <img src="https://github-readme-stats-mu-dun-89.vercel.app/api?username=adabugra&theme=dracula&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats-mu-dun-89.vercel.app/api/top-langs/?username=adabugra&compact&langs_count=3&theme=dracula"  />
 </div>
 
 ###
