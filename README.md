@@ -18,10 +18,19 @@
 ![Adabugra's GitHub stats](https://github-readme-stats-mu-dun-89.vercel.app/api?username=adabugra&theme=ambient_gradient&show_icons=true)
 [![Top Langs](https://github-readme-stats-mu-dun-89.vercel.app/api/top-langs/?username=adabugra&compact&langs_count=3&theme=ambient_gradient)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<div align="left">
+<div align="center">
   <img src="https://i.ibb.co/Wp3H6F2/image-removebg-preview-Copy.png" height="30" alt="javascript logo"  />
+  <img width="20" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" height="30" alt="ubuntu logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
   <img width="12" />
 </div>
+
 
 ###
 
