@@ -38,8 +38,9 @@
 <div align="center">
   <a href="https://discord.com/invite/6QRx2Y6rM9" target="_blank">
     <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="35" alt="discord logo"  />
+  &nbsp;
+  <a href="https://www.linkedin.com/in/jake-potrebic-8741a223a/" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=adabugra&style=for-the-badge" height="35" alt="views"  />
-  </a>
 </div>
 
 
