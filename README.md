@@ -2,9 +2,7 @@
 
 ###
 
-<!-- ![](https://raw.githubusercontent.com/adabugra/stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/adabugra/stats/master/generated/languages.svg#gh-dark-mode-only)
--->
+,,
 <div align="center">
   <img src="https://github-readme-stats-mu-dun-89.vercel.app/api?username=adabugra&theme=dracula&show_icons=true&hide_title=true&include_all_commits=true&hide_border=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-streak-stats-two-ashy.vercel.app?user=adabugra&theme=dracula&hide_border=true&border_radius=5&mode=weekly" height="150" alt="streak graph" />
